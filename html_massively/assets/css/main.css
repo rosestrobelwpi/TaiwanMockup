@@ -99,6 +99,7 @@ input, select, textarea {
 	}
 
 	body {
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Cityscape_of_Taipei%2C_Taiwan_at_night_20180608.jpg");
 		background-color: #1e252d;
 	}
 
@@ -144,6 +145,7 @@ input, select, textarea {
 		}
 
 	body {
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Cityscape_of_Taipei%2C_Taiwan_at_night_20180608.jpg");
 		color: #212931;
 	}
 
@@ -3237,7 +3239,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-image: url("../../images/taipei_cityscape.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
